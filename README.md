@@ -358,7 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
-- <img src="https://api.iconify.design/mdi:brain.svg?color=%237C5CFF" height="14"/> [Folklore](https://github.com/usefolklore/folklore) - Local-first memory + research layer for agents: answers from a local knowledge graph before the web and saves results with signed provenance, so agents never research the same thing twice. CPU-only, no API key, opt-in P2P federation
+- <img src="https://api.iconify.design/mdi:brain.svg?color=%237C5CFF" height="14"/> [Folklore](https://github.com/usefolklore/folklore) - P2P memory for AI agents: peers share their research over the network, so a new agent starts from what the network already knows instead of zero. Local knowledge graph queried before the web, signed provenance, CPU-only, no API key
 
 <br />
 
